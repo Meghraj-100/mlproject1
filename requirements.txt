@@ -2,4 +2,6 @@ pandas
 numpy
 seaborn
 setuptools
+matplotlib
+scikit-learn
 -e .
